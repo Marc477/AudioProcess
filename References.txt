@@ -1,0 +1,7 @@
+
+AutoTune Example
+http://www.mathworks.com/matlabcentral/fileexchange/26337-autotune-toy/content/AutoTuneToy.m
+
+Wah-wah
+http://www.cs.cf.ac.uk/Dave/Multimedia/PDF/06_CM0340Tut_MATLAB_DAFX.pdf
+
